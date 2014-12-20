@@ -1,6 +1,6 @@
 # lita-morin
 
-TODO: Add a description of the plugin.
+Shows a Super Normal quote from Dave Morin when you mention him.
 
 ## Installation
 
@@ -9,15 +9,12 @@ Add lita-morin to your Lita instance's Gemfile:
 ``` ruby
 gem "lita-morin"
 ```
-
-
-## Configuration
-
-TODO: Describe any configuration attributes the plugin exposes.
-
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+```
+You: Anyone else like Dave Morin's writing?
+bot: You make it Super Normal.
+```
 
 ## License
 

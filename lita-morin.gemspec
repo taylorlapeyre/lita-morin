@@ -3,9 +3,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.0.1"
   spec.authors       = ["Taylor Lapeyre"]
   spec.email         = ["taylorlapeyre@gmail.com"]
-  spec.description   = %q{TODO: Add a description}
-  spec.summary       = %q{TODO: Add a summary}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.description   = %q{Shows a Super Normal quote from Dave Morin when you mention him.}
+  spec.summary       = %q{Shows a Super Normal quote from Dave Morin when you mention him.}
+  spec.homepage      = "https://github.com/taylorlapeyre/lita-morin"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
